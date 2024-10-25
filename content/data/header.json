@@ -32,7 +32,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Записатся",
+            "label": "Записаться",
             "altText": "Sign up",
             "url": "/",
             "icon": "arrowRight",
