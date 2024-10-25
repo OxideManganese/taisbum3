@@ -41,7 +41,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Записаться",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
